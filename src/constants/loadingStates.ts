@@ -1,0 +1,6 @@
+export enum LOADING_STATES {
+  IDLE = "IDLE",
+  PENDING = "PENDING",
+  SUCCEEDED = "SUCCEEDED",
+  FAILED = "FAILED",
+}
