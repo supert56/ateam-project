@@ -10,6 +10,22 @@ npm run dev
 yarn dev
 ```
 
+## Running Tests
+
+You can run the selection of tests with
+
+```bash
+yarn test
+```
+
+## Running Type Checks
+
+You can run the tsc type checker with
+
+```bash
+yarn type-check
+```
+
 ## Things to Improve
 
 Here is a list of things that could be improved if more time was put into developing the project.
