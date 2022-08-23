@@ -41,7 +41,7 @@ Here is a list of things that could be improved if more time was put into develo
 
 - No time has been put into improving the performance. There may be places where things like re-renders could be reduced.
 
-#### Adding the ability to filter search results
+#### Adding the ability to filter search results
 
 - Once search results are shown there is currently no way to filter them. With more time it would be good to be able to filter the results.
 
@@ -80,7 +80,3 @@ Here is a list of things that could be improved if more time was put into develo
 #### Casting of Types
 
 - There are two places where I have cast the types. It would be better to go through and spend the time properly typing these instances.
-
-Still to do
-
-- Test the API request with a mock
